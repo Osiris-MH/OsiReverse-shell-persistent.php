@@ -6,5 +6,4 @@ Es una reverse shell avanzada escrita en PHP diseñada para ser utilizada en ent
 Características Principales:
 ----------------------------
 
-* 🌍  I'm based in Persistencia:
-  ------------------------------
+* 🧠  I'm learning fgfgf
