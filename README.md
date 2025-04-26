@@ -6,15 +6,20 @@ Es una reverse shell avanzada escrita en PHP diseñada para ser utilizada en ent
 Características Principales:
 ----------------------------
 
-* Persistencia:▶️Copia el script a /tmp/.ld.php y lo agrega a .bashrc para asegurar que se ejecute automáticamente tras cada reinicio.
+* Persistencia:
+▶️Copia el script a /tmp/.ld.php y lo agrega a .bashrc para asegurar que se ejecute automáticamente tras cada reinicio.
   
-* Auto-discovery del entorno:▶️Detecta información del sistema como el usuario, UID, GID, versión de OS y la shell en uso.
+* Auto-discovery del entorno:
+▶️Detecta información del sistema como el usuario, UID, GID, versión de OS y la shell en uso.
   
-* Uso de stream_select:▶️Permite una comunicación eficiente y sin bloqueos entre el servidor remoto y el shell.
+* Uso de stream_select:
+▶️Permite una comunicación eficiente y sin bloqueos entre el servidor remoto y el shell.
   
-* Daemonización:▶️Puede correr en segundo plano como un demonio, útil para operaciones encubiertas.
+* Daemonización:
+▶️Puede correr en segundo plano como un demonio, útil para operaciones encubiertas.
   
-* Compatibilidad:▶️Compatible con sistemas que ejecuten PHP y proporcionen un entorno adecuado.
+* Compatibilidad:
+▶️Compatible con sistemas que ejecuten PHP y proporcionen un entorno adecuado.
 
 ⚠️ Advertencia
 ===============================
