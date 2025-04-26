@@ -19,4 +19,7 @@ Características Principales:
 ⚠️ Advertencia
 ===============================
 
-Este script esta destinado exclusivamente para fines educativos, pruebas de penetracion autorizadas y auditorias de seguridad. El uso no autorizado puede ser ilegal. Usalo bajo tu propia responsabilidad.
+Este proyecto se proporciona únicamente con fines educativos, de investigación y para pruebas de penetración autorizadas.
+El uso de este script o herramienta para atacar objetivos sin consentimiento previo explícito constituye una actividad ilegal.
+El autor no se responsabiliza por cualquier uso indebido o daño causado.
+Al utilizar este proyecto, aceptas hacerlo bajo tu propio riesgo y responsabilidad.
