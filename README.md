@@ -5,3 +5,7 @@ Es una reverse shell avanzada escrita en PHP diseñada para ser utilizada en ent
 
 Características Principales:
 ----------------------------
+Características Principales:
+----------------------------
+
+* 🌍  I'm based in ghghghg
