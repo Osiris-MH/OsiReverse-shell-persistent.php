@@ -6,7 +6,15 @@ Es una reverse shell avanzada escrita en PHP diseñada para ser utilizada en ent
 Características Principales:
 ----------------------------
 
-* Copia el script a /tmp/.ld.php y lo agrega a .bashrc para asegurar que se ejecute automáticamente tras cada reinicio.
-* Detecta información del sistema como el usuario, UID, GID, versión de OS y la shell en uso.
-* Permite una comunicación eficiente y sin bloqueos entre el servidor remoto y el shell.Puede correr en segundo plano como un demonio, útil para operaciones encubiertas.
-* Compatible con sistemas que ejecuten PHP y proporcionen un entorno adecuado.
+*▶️Copia el script a /tmp/.ld.php y lo agrega a .bashrc para asegurar que se ejecute automáticamente tras cada reinicio.
+  
+*▶️Detecta información del sistema como el usuario, UID, GID, versión de OS y la shell en uso.
+  
+*▶️Permite una comunicación eficiente y sin bloqueos entre el servidor remoto y el shell.Puede correr en segundo plano como un demonio, útil para operaciones encubiertas.
+  
+*▶️Compatible con sistemas que ejecuten PHP y proporcionen un entorno adecuado.
+
+⚠️ Advertencia
+===============================
+
+Este script esta destinado exclusivamente para fines educativos, pruebas de penetracion autorizadas y auditorias de seguridad. El uso no autorizado puede ser ilegal. Usalo bajo tu propia responsabilidad.
